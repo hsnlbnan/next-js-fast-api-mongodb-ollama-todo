@@ -42,7 +42,7 @@ A modern todo application built with Next.js for the frontend and FastAPI for th
 
 ```bash
 git clone https://github.com/hsnlbnan/next-js-fast-api-mongodb-ollama-todo.git
-cd next-js-fast-api-mongodb-ollama-todo.git
+cd next-js-fast-api-mongodb-ollama-todo
 ```
 
 2. Install frontend dependencies:
