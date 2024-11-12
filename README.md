@@ -2,6 +2,8 @@
 
 A modern todo application built with Next.js for the frontend and FastAPI for the backend. The application features real-time updates, AI-powered task summarization, and a clean, responsive interface.
 
+![Nextjs + Fastapi Todo](https://github.com/user-attachments/assets/1e8475c7-665a-49fb-8901-fe2b3bae8f54)
+
 ## Features
 
 - ✨ Modern, responsive UI built with Next.js
